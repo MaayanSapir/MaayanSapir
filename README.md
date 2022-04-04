@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaayanSapir
-- 👀 I’m interested in a data analyst role in the medical field
+- 👀 I’m interested in a data analyst role 
 - 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me- maayan.sapir16@gmail.com
 
